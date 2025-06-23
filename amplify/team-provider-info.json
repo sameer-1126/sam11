@@ -17,6 +17,15 @@
       },
       "api": {
         "bucketlisttracker": {}
+      },
+      "function": {
+        "S3Trigger6cb5ecc3": {
+          "deploymentBucketName": "amplify-bucketlisttracker-dev-907ab-deployment",
+          "s3Key": "amplify-builds/S3Trigger6cb5ecc3-704d374d536475506a6b-build.zip"
+        }
+      },
+      "storage": {
+        "s317265ab3": {}
       }
     }
   }
