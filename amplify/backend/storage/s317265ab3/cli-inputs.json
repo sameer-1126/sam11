@@ -1,0 +1,13 @@
+{
+  "resourceName": "s317265ab3",
+  "policyUUID": "17265ab3",
+  "bucketName": "bucketlisttracker848e98f398c7445dbaead1ea6db2ae",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "S3Trigger6cb5ecc3",
+  "groupAccess": {}
+}
